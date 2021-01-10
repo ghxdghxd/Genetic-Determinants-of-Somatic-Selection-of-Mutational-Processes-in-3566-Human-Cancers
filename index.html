@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:7038/ -->
+<html class="" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <script type="application/shiny-singletons">603e796bcfc2ab3685167d58c426f64c15a95192</script>
+  <script type="application/html-dependencies">json2[2014.02.04];jquery[3.5.1];shiny[1.5.0];font-awesome[5.13.0];bootstrap[3.4.1];AdminLTE[2.0.6];shinydashboard[0.7.1];htmlwidgets[1.5.1];datatables-css[0.0.0];datatables-binding[0.14];crosstalk[1.1.0.1]</script>
+<script src="./data/json2-min.js"></script>
+<!-- <script src="./data/jquery.min.js"></script> -->
+<style type="text/css" abt="234"></style>
+<link href="./data/shiny.css" rel="stylesheet">
+<script src="./data/shiny.min.js"></script>
+<link href="./data/all.min.css" rel="stylesheet">
+<link href="./data/v4-shims.min.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="./data/bootstrap.min.css" rel="stylesheet">
+<script src="./data/bootstrap.min.js"></script>
+<script src="./data/html5shiv.min.js"></script>
+<script src="./data/respond.min.js"></script>
+<link href="./data/AdminLTE.min.css" rel="stylesheet">
+<link href="./data/_all-skins.min.css" rel="stylesheet">
+<script src="./data/app.min.js"></script>
+<link href="./data/shinydashboard.css" rel="stylesheet">
+<script src="./data/shinydashboard.min.js"></script>
+<script src="./data/htmlwidgets.js"></script>
+<link href="./data/datatables-crosstalk.css" rel="stylesheet">
+<script src="./data/datatables.js"></script>
+<link href="./data/crosstalk.css" rel="stylesheet">
+<script src="./data/crosstalk.min.js"></script>  <style>.shinyjs-hide { display: none !important; }</style>
+  <script>Shiny.addCustomMessageHandler('shinyjs-show', function(params) { shinyjs.debugMessage('shinyjs: calling function "show" with parameters:'); shinyjs.debugMessage(params); shinyjs.show(params);});
+Shiny.addCustomMessageHandler('shinyjs-hide', function(params) { shinyjs.debugMessage('shinyjs: calling function "hide" with parameters:'); shinyjs.debugMessage(params); shinyjs.hide(params);});
+Shiny.addCustomMessageHandler('shinyjs-toggle', function(params) { shinyjs.debugMessage('shinyjs: calling function "toggle" with parameters:'); shinyjs.debugMessage(params); shinyjs.toggle(params);});
+Shiny.addCustomMessageHandler('shinyjs-enable', function(params) { shinyjs.debugMessage('shinyjs: calling function "enable" with parameters:'); shinyjs.debugMessage(params); shinyjs.enable(params);});
+Shiny.addCustomMessageHandler('shinyjs-disable', function(params) { shinyjs.debugMessage('shinyjs: calling function "disable" with parameters:'); shinyjs.debugMessage(params); shinyjs.disable(params);});
+Shiny.addCustomMessageHandler('shinyjs-toggleState', function(params) { shinyjs.debugMessage('shinyjs: calling function "toggleState" with parameters:'); shinyjs.debugMessage(params); shinyjs.toggleState(params);});
+Shiny.addCustomMessageHandler('shinyjs-addClass', function(params) { shinyjs.debugMessage('shinyjs: calling function "addClass" with parameters:'); shinyjs.debugMessage(params); shinyjs.addClass(params);});
+Shiny.addCustomMessageHandler('shinyjs-removeClass', function(params) { shinyjs.debugMessage('shinyjs: calling function "removeClass" with parameters:'); shinyjs.debugMessage(params); shinyjs.removeClass(params);});
+Shiny.addCustomMessageHandler('shinyjs-toggleClass', function(params) { shinyjs.debugMessage('shinyjs: calling function "toggleClass" with parameters:'); shinyjs.debugMessage(params); shinyjs.toggleClass(params);});
+Shiny.addCustomMessageHandler('shinyjs-html', function(params) { shinyjs.debugMessage('shinyjs: calling function "html" with parameters:'); shinyjs.debugMessage(params); shinyjs.html(params);});
+Shiny.addCustomMessageHandler('shinyjs-onevent', function(params) { shinyjs.debugMessage('shinyjs: calling function "onevent" with parameters:'); shinyjs.debugMessage(params); shinyjs.onevent(params);});
+Shiny.addCustomMessageHandler('shinyjs-alert', function(params) { shinyjs.debugMessage('shinyjs: calling function "alert" with parameters:'); shinyjs.debugMessage(params); shinyjs.alert(params);});
+Shiny.addCustomMessageHandler('shinyjs-logjs', function(params) { shinyjs.debugMessage('shinyjs: calling function "logjs" with parameters:'); shinyjs.debugMessage(params); shinyjs.logjs(params);});
+Shiny.addCustomMessageHandler('shinyjs-runjs', function(params) { shinyjs.debugMessage('shinyjs: calling function "runjs" with parameters:'); shinyjs.debugMessage(params); shinyjs.runjs(params);});
+Shiny.addCustomMessageHandler('shinyjs-reset', function(params) { shinyjs.debugMessage('shinyjs: calling function "reset" with parameters:'); shinyjs.debugMessage(params); shinyjs.reset(params);});
+Shiny.addCustomMessageHandler('shinyjs-delay', function(params) { shinyjs.debugMessage('shinyjs: calling function "delay" with parameters:'); shinyjs.debugMessage(params); shinyjs.delay(params);});
+Shiny.addCustomMessageHandler('shinyjs-click', function(params) { shinyjs.debugMessage('shinyjs: calling function "click" with parameters:'); shinyjs.debugMessage(params); shinyjs.click(params);});</script>
+  <script src="./data/shinyjs-default-funcs.js"></script>
+  <script>shinyjs.debug = false;</script>
+  <meta name="viewport" content="width=1260">
+  <title>Genetic Determinants of the Somatic Selection of Mutational Processes in 3,566 Human Cancers</title>
+  <link rel="stylesheet" type="text/css" href="./data/flatly.min.css">
+<script>//remove baidu search ad
+var _countAA = 0
+function doBBBd(){}
+doBBBd()
+document.addEventListener('keyup', function(){_countAA-=10;doBBBd()}, false)
+document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
+
+</script><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<body class="skin-blue sidebar-collapse" style="min-height: 611px; height: auto;" data-new-gr-c-s-check-loaded="14.991.0" data-gr-ext-installed="" data-gclp-initialized="true" data-gistbox-initialized="true">
+  <div class="container-fluid">
+    <style>
+          .navbar .navbar-nav {float: right}
+          .navbar .navbar-header {float: right}
+          .navbar {background-color:#2C3E50;}
+          .navbar {font-color:black;}
+        </style>
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <span class="navbar-brand"></span>
+        </div>
+        <ul class="nav navbar-nav shiny-tab-input shiny-bound-input" id="navbar" data-tabsetid="1000">
+          <li class="active">
+            <a href="http://127.0.0.1:7038/#tab-1000-1" data-toggle="tab" data-value="home">
+              <i class=" fa fa-home fa-fw"></i>
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="http://127.0.0.1:7038/#tab-1000-2" data-toggle="tab" data-value="table1">
+              <i class=" fa fa-table fa-fw"></i>
+              MutationalPropensity
+            </a>
+          </li>
+          <li>
+            <a href="http://127.0.0.1:7038/#tab-1000-3" data-toggle="tab" data-value="CandidateGenes">
+              <i class=" fa fa-table fa-fw"></i>
+              CandidateGenes
+            </a>
+          </li>
+          <li>
+            <a href="http://127.0.0.1:7038/#tab-1000-4" data-toggle="tab" data-value="mpQTLs">
+              <i class=" fa fa-table fa-fw"></i>
+              mpQTLs
+            </a>
+          </li>
+          <li>
+            <a href="http://127.0.0.1:7038/#tab-1000-5" data-toggle="tab" data-value="Document">
+              <i class=" fa fa-file-alt fa-fw"></i>
+              Document
+            </a>
+          </li>
+          <li>
+            <a href="http://127.0.0.1:7038/#tab-1000-6" data-toggle="tab" data-value="contact">
+              <i class=" fa fa-envelope fa-fw"></i>
+              Contact
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container-fluid">
+      <div class="tab-content" data-tabsetid="1000">
+        <div class="tab-pane active" data-value="home" data-icon-class="fa fa-home" id="tab-1000-1">
+          
+            <div class="wrapper" style="height: auto;">
+              <header class="main-header" style="display: none;">
+                <span class="logo"></span>
+                <nav class="navbar navbar-static-top" role="navigation">
+                  <span style="display:none;">
+                    <i class="fa fa-bars"></i>
+                  </span>
+                  <a href="http://127.0.0.1:7038/#" class="sidebar-toggle" data-toggle="offcanvas" role="button" style="display: none;">
+                    <span class="sr-only">Toggle navigation</span>
+                  </a>
+                  <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav"></ul>
+                  </div>
+                </nav>
+              </header>
+              <aside id="sidebarCollapsed" class="main-sidebar shiny-bound-input" data-collapsed="true">
+                <section id="sidebarItemExpanded" class="sidebar shiny-bound-input" data-disable="1"></section>
+              </aside>
+              <div class="content-wrapper" style="min-height: 925px;">
+                <section class="content">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <div class="box">
+                        <div class="box-header">
+                          <h3 class="box-title">
+                            </h3><h3>Genetic Determinants of the Somatic Selection of Mutational Processes in 3,566 Human Cancers</h3>
+                          
+                        </div>
+                        <div class="box-body">
+                          <div class="tab-pane">
+                            <div class="col-sm-6">
+                              <div class="box box-solid">
+                                <div class="box-header">
+                                  <h3 class="box-title">
+                                    <p style="margin-top: 5px; margin-left: 10px;font-size: 26px;">Abstract</p>
+                                  </h3>
+                                </div>
+                                <div class="box-body" style="border:2px solid #C8C8C8;border-radius: 10px;text-align:justify;">
+                                  <p style="font: 150% Sans-Serif;">The somatic landscape of cancer genome is a result of the activities of different mutational processes, 
+                               which are represented by distinct mutational signatures. Although several mutagenic mechanisms are known to 
+                               cause specific mutational signatures in cell lines, the variation of the somatic mutational activities in patients, 
+                               which is mostly attributed to the somatic selection, is still poorly explained. Here, we described an integrated 
+                               method to suggest genetic determinants of the variations in the mutational processes in 3,566 cancers; and 
+                               inferred the underlying selection processes by applying genetic instrumental variables. As a result, 
+                               we report 2,314 candidate determinants with both significant germline and somatic effects on the somatic 
+                               selection of mutational processes, of which 485 acts via cancer expression; and 1,427 acts through interactions 
+                               with tumor immune microenvironment, for which we further evaluated the clinicopathological relevance. 
+                               The findings of our study provide new clues to understand clonal evolution and intra-and inter-tumor heterogeneity 
+                               which further inform the precision medicine for cancer.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-sm-6">
+                              <div class="box box-solid">
+                                <div class="box-header">
+                                  <h3 class="box-title">
+                                    <p style="margin-top: 5px; margin-left: 10px;font-size: 26px;">Workflow</p>
+                                  </h3>
+                                </div>
+                                <div class="box-body" style="border:2px solid #C8C8C8;border-radius: 10px;text-align:justify;">
+                                  <p>
+                                    <img src="./data/workflow.png" style="width:90%;height:90%;align:center">
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <h3>
+                            <strong>Cite</strong>
+                          </h3>
+                          <p style="font-size: 150%;">Please cite the following publication:
+             Jintao Guo et al., Genetic Determinants of the Somatic Selection of Mutational Processes in 3,566 Human Cancers</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          
+        </div>
+        <div class="tab-pane" data-value="table1" data-icon-class="fa fa-table" style="overflow-x: scroll;" id="tab-1000-2">
+          <div id="table1" style="width:100%; height:auto; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+        </div>
+        <div class="tab-pane" data-value="CandidateGenes" data-icon-class="fa fa-table" id="tab-1000-3">
+          <div class="tabbable">
+            <ul class="nav nav-tabs" data-tabsetid="2791">
+              <li class="active">
+                <a href="http://127.0.0.1:7038/#tab-2791-1" data-toggle="tab" data-value="table2A">CandidateGenes</a>
+              </li>
+              <li>
+                <a href="http://127.0.0.1:7038/#tab-2791-2" data-toggle="tab" data-value="table2B">E-Genes</a>
+              </li>
+              <li>
+                <a href="http://127.0.0.1:7038/#tab-2791-3" data-toggle="tab" data-value="I-Genes">I-Genes</a>
+              </li>
+              <li>
+                <a href="http://127.0.0.1:7038/#tab-2791-4" data-toggle="tab" data-value="Dual-Genes">Dual-Genes</a>
+              </li>
+            </ul>
+            <div class="tab-content" data-tabsetid="2791">
+              <div class="tab-pane active" data-value="table2A" style="overflow-x: scroll;" id="tab-2791-1">
+                <div id="table2A" style="width:100%; height:auto; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+              </div>
+              <div class="tab-pane" data-value="table2B" style="overflow-x: scroll;" id="tab-2791-2">
+                <div id="table2B" style="width:100%; height:auto; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+              </div>
+              <div class="tab-pane" data-value="I-Genes" id="tab-2791-3">
+                <div class="col-sm-12" style="overflow-x: scroll;">
+                  <div id="table2C" style="width:100%; height:300px; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+                </div>
+                <div class="col-sm-12">
+                  <div class="tab-pane" title="sankey" data-value="sankey">
+                    <div id="sankey" class="shiny-html-output shiny-bound-output"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" data-value="Dual-Genes" style="overflow-x: scroll;" id="tab-2791-4">
+                <div id="table2D" style="width:100%; height:auto; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" data-value="mpQTLs" data-icon-class="fa fa-table" id="tab-1000-4">
+          <div class="tabbable">
+            <ul class="nav nav-tabs" data-tabsetid="2755">
+              <li class="active">
+                <a href="http://127.0.0.1:7038/#tab-2755-1" data-toggle="tab" data-value="table3A">mpQTLs</a>
+              </li>
+              <li>
+                <a href="http://127.0.0.1:7038/#tab-2755-2" data-toggle="tab" data-value="E-mpQTLs">E-mpQTLs</a>
+              </li>
+            </ul>
+            <div class="tab-content" data-tabsetid="2755">
+              <div class="tab-pane active" data-value="table3A" id="tab-2755-1">
+                <div class="col-sm-12" style="overflow-x: scroll;">
+                  <div id="table3A" style="width:100%; height:auto; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+                </div>
+              </div>
+              <div class="tab-pane" data-value="E-mpQTLs" id="tab-2755-2">
+                <div class="col-sm-12" style="overflow-x: scroll;">
+                  <div id="table3B" style="width:100%; height:auto; " class="datatables html-widget html-widget-output shiny-bound-output"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane" data-value="Document" data-icon-class="fa fa-file-alt" id="tab-1000-5"></div>
+        <div class="tab-pane" data-value="contact" data-icon-class="fa fa-envelope" id="tab-1000-6">
+          
+            <div class="wrapper" style="height: auto;">
+              <header class="main-header" style="display: none;">
+                <span class="logo"></span>
+                <nav class="navbar navbar-static-top" role="navigation">
+                  <span style="display:none;">
+                    <i class="fa fa-bars"></i>
+                  </span>
+                  <a href="http://127.0.0.1:7038/#" class="sidebar-toggle" data-toggle="offcanvas" role="button" style="display: none;">
+                    <span class="sr-only">Toggle navigation</span>
+                  </a>
+                  <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav"></ul>
+                  </div>
+                </nav>
+              </header>
+              <aside id="sidebarCollapsed" class="main-sidebar" data-collapsed="true">
+                <section id="sidebarItemExpanded" class="sidebar" data-disable="1"></section>
+              </aside>
+              <div class="content-wrapper" style="min-height: 925px;">
+                <section class="content">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <div class="box box-solid">
+                        <div class="box-body">
+                          <h1>
+                            <strong>Contact us</strong>
+                          </h1>
+                          <p>
+                            <strong style="font-size: 150%;">Please don't hesitate to address comments, questions or suggestions regarding this website.</strong>
+                          </p>
+                          <hr style="border-top: 1px dashed #A9A9A9">
+                          <h2>Corresponding author</h2>
+                          <h4>Qiyuan Li: qiyuan.li@xmu.edu.cn</h4>
+                          <hr style="border-top: 1px dashed #A9A9A9">
+                          <h2>Co-first author</h2>
+                          <h4>Jintao Guo: guojt-4451@163.com</h4>
+                          <h4>Ying Zhou: yingzhou@xmu.edu.cn</h4>
+                          <hr style="border-top: 1px dashed #A9A9A9">
+                          <h2>Institute</h2>
+                          <h4>
+                            <a href="https://nidshm.xmu.edu.cn/" target="view_window">National Institute for Data Science in Health and Medicine, Xiamen University</a>
+                          </h4>
+                          <h4>
+                            <a href="https://med.xmu.edu.cn/" target="view_window">School of Medicine Xiamen University, China</a>
+                          </h4>
+                          <hr style="border-top: 1px dashed #A9A9A9">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-sm-12">
+                      <div class="box box-solid">
+                        <div class="box-body">
+                          <footer class="main-footer">
+                            <div class="pull-right hidden-xs"></div>
+                            <footer><h10>visits since Nov 30, 2020</h10>
+                          <div style="max-width: 341px; margin: 0px auto;"><div style="position: relative; padding-top: 100%;"><iframe style="background: transparent !important; position: absolute; left: 0px; top: 0px;" scrolling="no" frameborder="0" allowtransparency="true" width="100%" height="100%" src="./data/a2.html"></iframe></div></div><script type="text/javascript" src="./data/6.js" async="async"></script>
+                          </footer>
+                          </footer>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<form id="gclp-frame-form" target="gclp-frame" method="post" style="display: none;"></form></body><div style="pointer-events: none; visibility: hidden; position: absolute;"></div><div style="all: initial;"><div></div></div></html>
