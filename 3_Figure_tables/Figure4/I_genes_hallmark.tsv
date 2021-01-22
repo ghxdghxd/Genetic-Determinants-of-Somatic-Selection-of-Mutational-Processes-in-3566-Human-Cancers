@@ -1,0 +1,11 @@
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+HALLMARK_MITOTIC_SPINDLE	199	Genes important for mitotic spindle assembly.	31	0.1558	5.45E-12	2.73E-10
+HALLMARK_MYOGENESIS	200	Genes involved in development of skeletal muscle (myogenesis).	28	0.14	7.22E-10	1.8E-08
+HALLMARK_G2M_CHECKPOINT	200	Genes involved in the G2/M checkpoint, as in progression through the cell division cycle.	27	0.135	3.25E-09	5.41E-08
+HALLMARK_FATTY_ACID_METABOLISM	158	Genes encoding proteins involved in metabolism of fatty acids.	20	0.1266	9.72E-07	1.22E-05
+HALLMARK_BILE_ACID_METABOLISM	112	Genes involve in metabolism of bile acids and salts.	16	0.1429	2.35E-06	2.35E-05
+HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	200	Genes defining epithelial-mesenchymal transition, as in wound healing, fibrosis and metastasis.	22	0.11	3.11E-06	2.59E-05
+HALLMARK_COAGULATION	138	Genes encoding components of blood coagulation system; also up-regulated in platelets.	17	0.1232	8.95E-06	5.92E-05
+HALLMARK_ADIPOGENESIS	200	Genes up-regulated during adipocyte differentiation (adipogenesis).	21	0.105	1.07E-05	5.92E-05
+HALLMARK_APICAL_JUNCTION	200	Genes encoding components of apical junction complex.	21	0.105	1.07E-05	5.92E-05
+HALLMARK_IL2_STAT5_SIGNALING	199	Genes up-regulated by STAT5 in response to IL2 stimulation.	20	0.1005	3.23E-05	0.000158

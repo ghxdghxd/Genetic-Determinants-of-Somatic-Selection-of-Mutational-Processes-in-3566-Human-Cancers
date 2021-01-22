@@ -1,0 +1,419 @@
+Gene  Symbol	Gene Name	Gene Alias(es)	Chromosome location	Cancer syndrome(s)	Major associated tumor types	Mode of inheritance	Gene Start (bp)	Gene End (bp)	Reference (PubMed ID)	OMIM ID	Source	Gene_Classification	# of Likely Pathogenic Variant	# of Pathogenic Variant
+ATR	ATR serine/threonine kinase	"ATR,Q13535,FRP1,SCKL1,SCKL,MEC1,ENSG00000175054,545"	3q23	"familial cutaneous telangiectasia and cancer sydrome, Seckel syndrome"	"endometrial, gastric"	autosomal dominant	142449429	142578704	29025585	601215	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	14	0
+FANCD2	"Fanconi anemia, complementation group D2"	"2177,FANCD,DKFZp762A223,FAD2,FA-D2,FA4,FACD,FAD,FLJ23826,ENSG00000144554,FANCD2"	3p26	Fanconi anaemia D2	"AML, leukaemia"	autosomal recessive	10028658	10098950	28678401	613984	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	0	0
+FANCE	"Fanconi anemia, complementation group E"	"FANCE,FACE,FAE,ENSG00000112039,2178"	6p21-p22	Fanconi anaemia E	"AML, leukaemia"	autosomal recessive	35452546	35466345	28678401	613976	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	0	2
+FANCF	"Fanconi anemia, complementation group F"	"FANCF,FAF,MGC126856,Q9NPI8,ENSG00000183161,2188"	11p15	Fanconi anaemia F	"AML, leukaemia"	autosomal recessive	22624686	22625810	28440438; 28687356	613897	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	0	0
+HNF1A	HNF1 homeobox A	"6927,HNF1,LFB1,P20823,HNF1A,MODY3,TCF1,ENSG00000135100,TCF1"	12q24.2	familial hepatic adenoma	"hepatic adenoma, hepatocellular carcinoma"	autosomal recessive	120978769	121001192	23707370	142410	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	0	1
+LMO1	LIM domain only 1 (rhombotin 1) (RBTN1)	"LMO1,RBTN1,TTG1,RHOM1,P25800,ENSG00000166407,4004"	11p15		neuroblastoma	autosomal dominant	8224616	8268634	21124317	186921	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Oncogene	0	0
+MPL	"myeloproliferative leukaemia virus oncogene, thrombopoietin receptor"	"P40238,TPOR,RP1-92O14_1,C-MPL,MPLV,CD110,ENSG00000117400,4352,MPL"	1p34	familial essential thrombocythemia	MPN	autosomal dominant	43337849	43352772	28979237	159530	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Oncogene	0	1
+PMS1	PMS1 postmeiotic segregation increased 1 (S. cerevisiae)	"5378,hPMS1,DKFZp781M0253,HNPCC3,PMSL1,ENSG00000064933,PMS1"	2q31-q33		hereditary non-polyposis colorectal cancer	autosomal recessive	189791810	189877436	28687356	600258	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	0	0
+PRF1	perforin 1 (pore forming protein)	"P14222,PRF1,5551,ENSG00000180644,FLH2,HPLH2,MGC65093,P1,PFP"	10q22		"various leukaemia, lymphoma"	autosomal recessive	70598053	70600902	29113160	170280	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Tumor Suppressor Gene	0	0
+SETBP1	SET binding protein 1	"Q9UEF3,SETBP1_ENST00000282030,ENSG00000152217,KIAA0437,SEB,26040,Q9Y6X0,A6H8W5,Q6P6C3"	18q21.1	Schinzel-Giedion syndrome	neuroepithelial tumours	autosomal dominant	44701347	45063698	28383694	611060	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Oncogene	2	0
+TSHR	thyroid stimulating hormone receptor	"7253,hTSHR-I,LGR3,MGC75129,ENSG00000165409,TSHR"	14q31		thyroid adenoma	autosomal dominant	80955681	81144353	7920658	603372	Cancer Gene Census Germline download 1/5/2016 (http://cancer.sanger.ac.uk/census/ )	Oncogene	0	1
+DROSHA	"RIBONUCLEASE III, NUCLEAR"	RNASEN	5p13.3			autosomal dominant	"31,400,493"	"31,532,174"	personal communication; related to DICER1	608828	"personal communication with Gang Wu, St. Jude; related to DICER1"	Not classified	0	0
+ABCB11	"ATP-binding cassette, sub-family B (MDR/TAP), member 11"	"ABC16, BSEP, PFIC-2, PFIC2, PGY4, SPGP"	2q31.1	Progressive familial intrahepatic cholestasis	"Hepatocellular carcinoma
+Cholangiocarcinoma"	autosomal recessive 	"169,779,448"	"169,887,832"	9806540	603201	Rahman 114 CPG	Not classified	0	0
+ALK	anaplastic lymphoma receptor tyrosine kinase	"CD246, NBLST3
+"	2p23 		Neuroblastoma	autosomal dominant	"29,415,640"	"30,144,432"	18724359	105590	Rahman 114 CPG	Oncogene	0	0
+APC	adenomatous polyposis coli	DP2.5	5q21	"Familial adenomatous polyposis (FAP)
+      "	"Colorectal cancer 
+Hepatoblastoma
+Desmoid tumor"	autosomal dominant	"112,043,195"	"112,181,936"	"1651174
+1651562
+1651563
+1678319"	611731	Rahman 114 CPG	Tumor Suppressor Gene	4	1
+ATM	ataxia telangiectasia mutated	"TEL1, TELO1"	11q22.3 	Ataxia-Telangiectasia (biallelic mutations)       	"Biallelic mutations:
+Lymphoid hematological malignancy (leukemia, lymphoma) 
+Monoallelic mutations: 
+Breast cancer                    "	"autosomal recessive 
+autosomal dominant "	"108,093,211"	"108,239,829"	7792600	607585	Rahman 114 CPG	Tumor Suppressor Gene	21	36
+AXIN2	axin 2	"AXIL, ODCRCS"	17q24.1	oligodentia-colorectal cancer syndrome	Colorectal cancer	autosomal dominant	"633,553,924"	"63,556,675"	15042511	604025	Rahman 114 CPG	Not classified	1	0
+BAP1	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)	UCHL2	3p21.31-p21.2		"Melanoma (cutaneous, uveal)
+Mesothelioma
+Meningioma
+Lung cancer (adenocarcinoma)"	autosomal dominant	"52,435,029"	"52,444,366"	21874003	603089	Rahman 114 CPG	Tumor Suppressor Gene	5	3
+BLM	"Bloom syndrome, RecQ helicase-like"	"BS, RECQ2, RECQL3"	15q26.1	Bloom syndrome	"Lymphoma and ALL hematological malignancy
+Myeloid hematological malignancy
+Squamous cell carcinoma, scc
+gastic, colorectal cancers"	autosomal recessive 	"91,260,558"	"91,358,859"	7585968	604610	Rahman 114 CPG	Tumor Suppressor Gene	0	17
+BMPR1A	"bone morphogenetic protein receptor, type IA"	"ALK3, CD292"	10q22.3 	Juvenile polyposis syndrome	"Colorectal cancer, gastric cancer, hamartoma            "	autosomal dominant	"88,516,396"	"88,684,945"	11381269	601299	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+BRCA1	"breast cancer 1, early onset"	"BRCC1, PPP1R53, RNF53"	17q21	Hereditary breast-ovarian cancer 	"Breast cancer
+Ovarian cancer"	autosomal dominant	"41,196,312"	"41,322,290"	7545954	113705	Rahman 114 CPG	Tumor Suppressor Gene	31	58
+BRCA2	"breast cancer 2, early onset"	FANCD1	13q12	"Hereditary breast-ovarian cancer
+Fanconi anaemia (D1)  (biallelic mutations)"	"Biallelic mutations:
+Myeloid hematological malignancy (
+Medulloblastoma
+Wilms tumor
+Monoallelic mutations:
+Breast cancer
+Ovarian cancer
+Prostate cancer
+Pancreas cancer"	"autosomal recessive 
+autosomal dominant "	"32,889,611"	"32,973,805"	8524414	600185	Rahman 114 CPG	Tumor Suppressor Gene	38	53
+BRIP1	BRCA1 interacting protein C-terminal helicase 1	"FANCJ, BACH1"	17q22	Fanconi anaemia (J) (biallelic mutations)	"Biallelic mutations:
+Myeloid hematological malignancy 
+Squamous cell carcinoma (head and neck, esophagus, genital tract)
+Monoallelic mutations:
+Breast cancer
+Ovarian cancer            "	"autosomal recessive 
+autosomal dominant "	"59,759,985"	"59,940,755"	"16153896
+16116424
+16116423"	605882	Rahman 114 CPG	Tumor Suppressor Gene	22	14
+BUB1B	budding uninhibited by benzimidazoles 1 homolog beta (yeast)	"BUBR1, MAD3L, SSK1"	15q15	Mosaic variegated aneuploidy Syndrome 	"Wilms Tumor 
+Rhabdomyosarcoma
+Myeloid hematological malignancy"	autosomal recessive 	"40,453,224"	"40,513,337"	15475955	602860	Rahman 114 CPG	Tumor Suppressor Gene	0	10
+CBL	"Cbl proto-oncogene, E3 ubiquitin protein ligase"	"CBL2, RNF55, C-Cbl, FRA11B, NSLL"	11q23	Noonan syndrome	JMML	autosomal dominant	"119,076,752"	"119,178,859"	20694012	165360	Rahman 114 CPG	Oncogene	0	1
+CDC73	"cell division cycle 73, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)"	"HRPT2, parafibromin"	1q25	Hyperparathyroidism-jaw tumor syndrome	"Parathyroid cancer
+Ossifying fibroma (bone)"	autosomal dominant	"193,091,147"	"193,223,031"	12434154	607393	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+CDH1	"cadherin 1, type 1, E-cadherin (epithelial)"	"UVO, CD324"	16q22.1 	Hereditary diffuse gastric cancer	"Breast cancer (lobular)
+Gastric cancer (diffuse)
+"	autosomal dominant	"68,771,128"	"68,869,445"	9537325	192090	Rahman 114 CPG	Tumor Suppressor Gene	2	2
+CDK4	cyclin-dependent kinase 4	PSK-J3	12q14 		Melanoma 	autosomal dominant	"58,142,034"	"58,149,796"	8528263	123829	Rahman 114 CPG	Oncogene	0	0
+CDKN1B	"cyclin-dependent kinase inhibitor 1B (p27, Kip1)"	"KIP1, P27KIP1, CDKN4, MEN4, MEN1B, P27Kip1"	12p.13.1		"Thyroid cancer, 
+Pituitary adenoma"	"autosomal recessive 
+autosomal dominant "	"12,867,992"	"12,875,305"	17030811	600778	Rahman 114 CPG	Not classified	2	1
+CDKN2A	cyclin-dependent kinase inhibitor 2A	"p16, p14ARF"	9p21 		"Melanoma [p16 and p14ARF]
+Pancreas cancer [p16 ]
+Astrocytoma [p14ARF ]"	autosomal dominant	"21,967,751"	"21,995,300"	"7987387
+7987388"	600160	Rahman 114 CPG	Tumor Suppressor Gene	10	0
+CEBPA	"CCAAT/enhancer binding protein (C/EBP), alpha"	CEBP	19q13.1		Myeloid hematological malignancy	autosomal dominant	"33,790,840"	"33,793,470"	15575056	116897	Rahman 114 CPG	Oncogene	0	0
+CHEK2	checkpoint kinase 2	"CDS1, CHK2"	22q12.1		Breast cancer 	autosomal dominant	"29,083,731"	"29,138,410"	"11967536
+12094328"	604373	Rahman 114 CPG	Tumor Suppressor Gene	12	51
+COL7A1	"collagen, type VII, alpha 1"	"Long-chain collagen, EBD1,EBDCT, EBR1"	3p21.31	Epidermolysis bullosa	Squamous cell carcinmona (skin)	"autosomal recessive 
+autosomal dominant "	"48,601,506"	"48,632,700"	8513326	120120	Rahman 114 CPG	Not classified	30	1
+CYLD	cylindromatosis (turban tumor syndrome)	USPL2	16q12.1 	"Brooke-Spiegler syndrome
+"	"Cylindroma
+spiroadenocarcinoma
+Basal cell carcinoma"	autosomal dominant	"50,775,961"	"50,835,846"	10835629	605018	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+DDB2	"damage-specific DNA binding protein 2, 48kDa"	XPE	11p12	Xeroderma Pigmentosum (E)	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal dominant	"47,236,493"	"47,260,767"	8798680	600811	Rahman 114 CPG	Tumor Suppressor Gene	2	1
+DICER1	"dicer 1, ribonuclease type III"	"DCR1, Dicer, HERNA, MNG1"	14q32.13	DICER1 syndrome	"Pleuropulmonary blastoma
+Cystic nephroma 
+Ovarian sex cord tumor"	autosomal dominant	"95,552,565"	"95,624,347"	19556464	606241	Rahman 114 CPG	Tumor Suppressor Gene	2	0
+DIS3L2	DIS3 mitotic control homolog (S. cerevisiae)-like 2	FAM6A	2q37.1	Perlman syndrome	Wilms tumor	autosomal recessive 	"232,825,955"	"233,209,060"	22306653	614184	Rahman 114 CPG	Not classified	0	0
+DKC1	"dyskeratosis congenita 1, dyskerin"	"DKC, NOLA4, NAP57, XAP10, Dyskerin, CBF5, DKCX, "	Xq28	Dyskeratosis congenita	"acute myeloid leukemia
+Squamous cell carcinoma (head + neck, anorectal)"	X-linked recessive	"153,991,031"	"154,005,964"	9590285	300126	Rahman 114 CPG	Not classified	0	6
+DOCK8	"dedicator of cytokinesis 8
+
+"	"ZIR8, MRD2, FLJ00026, FLJ00152, FLJ0346"	9p24.3	HyperIgE syndrome	"Squamous cell carcinoma
+Lymphoma"	autosomal recessive 	"214,865"	"465,255"	19776401	611432	Rahman 114 CPG	Not classified	0	1
+EGFR	epidermal growth factor receptor	ERBB1	7p12		Non-small cell lung cancer 	autosomal dominant	"55,086,714"	"55,324,313"	16258541	131550	Rahman 114 CPG	Oncogene	0	0
+ELANE	"elastase, neutrophil expressed"	"ELA2, HLE, HLN, NE, SCN, GE, PMN-E"	19p13.3	Severe congenital neutropenia	Leukemia 	autosomal dominant	851014	856242	11001877	130130	Rahman 114 CPG	Not classified	0	1
+ERCC2	"excision repair cross-complementing rodent repair deficiency, complementation group 2"	XPD	19q13.3	Xeroderma pigmentosum (D)	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal recessive 	"45,854,246"	"45,873,876"	7849702	126340	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+ERCC3	"excision repair cross-complementing rodent repair deficiency, complementation group 3"	XPB	2q21	Xeroderma pigmentosum (B)	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal recessive 	"128,014,866"	"128,051,752"	2167179	133510	Rahman 114 CPG	Tumor Suppressor Gene	0	1
+ERCC4	"excision repair cross-complementing rodent repair deficiency, complementation group 4"	XPF	16p13.12	"Xeroderma pigmentosum (F)
+Fanconi anaemia (Q) "	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal recessive 	"14,014,014"	"14,046,202"	8797827	133520	Rahman 114 CPG	Tumor Suppressor Gene	0	1
+ERCC5	"excision repair cross-complementing rodent repair deficiency, complementation group 5"	XPG	13q33	Xeroderma pigmentosum (G)	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal recessive 	"103,459,705"	"103,528,345"	7951246	133530	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+EXT1	exostosin 1	"LGCR, LGS"	8q24.11		Chondrosarcoma	autosomal dominant	"118,806,729"	"119,124,092"	7550340	608177	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+EXT2	exostosin 2	SOTV	11p12-p11		Chondrosarcoma	autosomal dominant	"44,117,099"	"44,266,979"	8782816	608210	Rahman 114 CPG	Tumor Suppressor Gene	11	0
+FAH	fumarylacetoacetate hydrolase (fumarylacetoacetase)	FAA	15q25.1	Tyrosinemia	Hepatocellular carcinoma	autosomal recessive 	"80,445,122"	"80,479,288"	8318997	276700	Rahman 114 CPG	Not classified	0	11
+FANCA	"Fanconi anemia, complementation group A"	FANCH	16q24.3	Fanconi anaemia (A)	"Myeloid hematological malignancy
+Squamous cell carcinoma (head and neck, esophagus, genital tract) "	autosomal recessive 	"89,803,957"	"89,883,065"	"8896564
+8896563"	607139	Rahman 114 CPG	Tumor Suppressor Gene	0	4
+FANCC	"Fanconi anemia, complementation group C"	"FAC, FACC"	9q22.3	Fanconi anaemia (C)	"Myeloid hematological malignancy
+Squamous cell carcinoma (head and neck, esophagus, genital tract) "	autosomal recessive 	"97,861,336"	"98,079,991"	1574115	613899	Rahman 114 CPG	Tumor Suppressor Gene	0	4
+FANCG	"Fanconi anemia, complementation group G"	XRCC9	9p13	Fanconi anaemia (G)	"Myeloid hematological malignancy
+Squamous cell carcinoma (head and neck, esophagus, genital tract) "	autosomal recessive 	"35,073,832"	"35,080,013"	9806548	602956	Rahman 114 CPG	Tumor Suppressor Gene	0	4
+FH	fumarate hydratase	fumarase	1q42.1 	Hereditary leiomyomatosis and renal cell cancer (HLRCC)	"Renal cell cancer
+Leiomyosarcoma (uterus)
+"	"autosomal recessive 
+autosomal dominant "	"241,660,903"	"241,683,061"	11865300	136850	Rahman 114 CPG	Tumor Suppressor Gene	4	1
+FLCN	folliculin	BHD	17p11.2	Birt-Hogg-Dube syndrome	"Renal cell cancer
+Oncocytoma
+"	autosomal dominant	"17,115,526"	"17,140,502"	12204536	607273	Rahman 114 CPG	Not classified	0	0
+GATA2	GATA binding protein 2	NFE1B	3q21.3	Emberger MonoMAC syndrome	Myeloid hematological malignancy 	autosomal dominant	"128,198,270"	"128,212,028"	"21892158
+21892162
+21765025
+21670465"	137295	Rahman 114 CPG	Oncogene	0	0
+GBA	"glucosidase, beta, acid"	"GLUC, GBA1, GCB"	1q21	Gauchers type 1	"Myeloma
+Lymphoma
+Hepatocellular carcinoma"	autosomal recessive 	"155,204,239"	"155,214,653"	2880291	606463	Rahman 114 CPG	Not classified	0	2
+GJB2	"gap junction protein, beta 2, 26kDa"	"CX26, DFNA3, DFNB1, NSRD1, DFNA3A, DFNB1A, HID, KID"	13q12.11	Keratosis-icthyosis-deafness syndrome (KID)	Squamous cell carcinoma	autosomal dominant	"20,761,609"	"20,767,037"	11912510	121011	Rahman 114 CPG	Not classified	7	16
+GPC3	glypican 3	"SDYS, DGSX"	Xq26.1	Simpson-Golabi-Behmel syndrome	"Wilms tumor
+Hepatoblastoma, hepatocellular carcinoma
+Neuroblastoma
+Gonadoblastoma
+"	X-linked recessive	"132,669,773"	"133,119,922"	8589713	300037	Rahman 114 CPG	Not classified	0	0
+HFE	hemochromatosis	"HLA-H, HFE, MVDC7, HH, HLAH, TFQTL2"	6p22.2	Haemochromatosis	"Hepatocellular carcinoma
+Cholangiocarcinoma"	autosomal recessive 	"26,087,448"	"26,098,571"	8696333	613609	Rahman 114 CPG	Not classified	0	2
+HMBS	hydroxymethylbilane synthase	"PBGD, UPS, PORC, PBG-D"	11q23.3	Porphyria (AI)	hepatocellular carcinoma	autosomal dominant	"118,955,576"	"118,964,259"	2563167	609806	Rahman 114 CPG	Not classified	0	0
+HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	HRAS1	11p15.5 	Costello syndrome         	"Rhabdomyosarcoma
+Neuroblastoma
+Transitional cell carcinoma (bladder)"	autosomal dominant	"532,242"	"537,287"	16170316	190020	Rahman 114 CPG	Oncogene	0	0
+ITK	IL2-inducible T-cell kinase	"EMT, LYK, PSCTK2, "	5q33.3	Lymphoproliferative syndrome 1	Hodgkins lymphoma	autosomal recessive 	"156,569,944"	"156,682,201"	19425169	186973	Rahman 114 CPG	Oncogene	0	0
+KIT	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	"PBT, C-Kit, CD117, SCFR"	4q12		Gastro-Intestinal Stromal Tumor          	autosomal dominant	"55,524,085"	"55,606,881"	9697690	164920	Rahman 114 CPG	Oncogene	0	0
+MAX	MYC associated factor X	bHLHd4	14q23	Familial paraganglioma-pheochromocytoma syndrome	"Paraganglioma
+Pheochromocytoma"	autosomal dominant	"65,472,892"	"65,569,413"	21685915	154950	Rahman 114 CPG	Tumor Suppressor Gene	4	2
+MEN1	multiple endocrine neoplasia I	menin	11q13 	Multiple endocrine neoplasia Type 1	"Parathyroid, pituitary adenoma 
+Neuroendocrine tumor
+Carcinoid tumor
+Adrenocortical carcinoma"	autosomal dominant	"64,570,988"	"64,578,766"	9103196	613733	Rahman 114 CPG	Tumor Suppressor Gene	2	0
+MET	met proto-oncogene (hepatocyte growth factor receptor)	"HGFR, c-Met"	7q31		Renal cell cancer (papillary carcinoma)	autosomal dominant	"116,312,248"	"116,438,440"	9140397	164860	Rahman 114 CPG	Oncogene	0	3
+MLH1	"mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)"	"COCA2, HNPCC2"	3p21.3 	"MMR deficiency syndrome (biallelic mutations)
+Lynch syndrome / Hereditary Non-Polyposis Colon Cancer  (monoallelic mutations) 
+
+   "	"Biallelic mutations:
+Brain tumors
+Hematological malignancy
+Embryonal tumors
+Monoallelic mutations:
+Colorectal cancer
+Endometrial cancer
+Ovarian cancer
+"	"autosomal recessive 
+autosomal dominant "	"37,034,823"	"37,107,380"	"8128251
+8145827"	120436	Rahman 114 CPG	Tumor Suppressor Gene	5	1
+MSH2	"mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)"	"COCA1, HNPCC1"	2p21	"MMR deficiency syndrome (biallelic mutations)
+Lynch syndrome / Hereditary Non-Polyposis Colon Cancer  (monoallelic mutations) 
+
+   "	"Biallelic mutations:
+Brain tumors
+Hematological malignancy
+Embryonal tumors
+Monoallelic mutations:
+Colorectal cancer
+Endometrial cancer
+Ovarian cancer
+Sebaceous adenoma, carcinoma, epithelioma
+"	"autosomal recessive 
+autosomal dominant "	"47,630,108"	"47,789,450"	"8252616
+8261515"	609309	Rahman 114 CPG	Tumor Suppressor Gene	5	5
+MSH6	mutS homolog 6 (E. coli)	GTBP	2p16	"MMR deficiency syndrome (biallelic mutations)
+Lynch syndrome / Hereditary Non-Polyposis Colon Cancer  (monoallelic mutations) 
+
+   "	"Biallelic mutations:
+Brain tumors
+Hematological malignancy
+Embryonal tumors
+Monoallelic mutations:
+Colorectal cancer
+Endometrial cancer
+Ovarian cancer
+"	"autosomal recessive 
+autosomal dominant "	"48,010,221"	"48,034,092"	9354786	600678	Rahman 114 CPG	Tumor Suppressor Gene	11	3
+MTAP	methylthioadenosine phosphorylase	"MSAP, C86fus, BDMF, DMSFH, DMSMFH, LGMBF"	9p21.3	Diaphyseal medullary stenosis with malignant fibrous histiocytoma (DMS-MFH)	malignant fibrous histiocytoma (sarcoma)	autosomal dominant	"21,802,542"	"21,931,646"	22464254	156540	Rahman 114 CPG	Not classified	1	0
+MUTYH	mutY homolog (E. coli)	MYH	1p34.1		Colorectal cancer	autosomal recessive 	"45,794,835"	"45,806,142"	11818965	604933	Rahman 114 CPG	Tumor Suppressor Gene	0	6
+NBN	nibrin	NBS1	8q21	Nijmegen breakage syndrome 	"Lymphoma  
+Medulloblastoma
+Glioma
+Rhabdomyosarcoma"	autosomal recessive 	"90,945,564"	"91,015,456"	"9590180
+9620777"	602667	Rahman 114 CPG	Tumor Suppressor Gene	0	15
+NF1	neurofibromin 1	"NFNS, VRNF, WSS"	17q12	Neurofibromatosis type 1	"Glioma
+Malignant peripheral nerve sheath tumor
+"	autosomal dominant	"29,421,945"	"29,708,905"	"2134734
+1694727"	613113	Rahman 114 CPG	Tumor Suppressor Gene	11	7
+NF2	neurofibromin 2 (merlin)	"ACN, BANF, SCH"	22q12.2 	Neurofibromatosis type 2	"Vestibular schwannoma
+Meningioma
+Ependymoma
+"	autosomal dominant	"29,999,545"	"30,094,587"	"8453669
+8379998"	607379	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+PALB2	partner and localizer of BRCA2	FANCN	16p12.1	Fanconi anaemia (N) (biallelic mutations)          	"Biallelic mutations:
+Myeloid hematological malignancy  
+Medulloblastoma
+Neuroblastoma
+Wilms tumor
+Monoallelic mutations:
+Breast cancer
+Pancreas cancer  "	"autosomal recessive 
+autosomal dominant "	"23,614,488"	"23,652,631"	"17200671
+17200672
+17200668
+17287723"	610355	Rahman 114 CPG	Tumor Suppressor Gene	9	20
+PDGFRA	"platelet-derived growth factor receptor, alpha polypeptide"	"PDGFR2, RHEPDGFRA, CD140a, CD140A, PDGFRA/BCR Fusion"	4q12		Gastro-Intestinal Stromal Tumor         	autosomal dominant	"55,095,264"	"55,164,414"	14699510	173490	Rahman 114 CPG	Oncogene	0	0
+PHOX2B	paired-like homeobox 2b	PMX2B	4p12		Neuroblastoma	autosomal dominant	"41,746,099"	"41,750,987"	12640453	603851	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+PMS2	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)	"PMSL2, HNPCC4"	7p22 	"MMR deficiency syndrome (biallelic mutations)
+Lynch syndrome / Hereditary Non-Polyposis Colon Cancer  (monoallelic mutations) 
+
+   "	"Biallelic mutations:
+Brain tumors 
+Hematological malignancy
+Supratentorial primitive neuroectodermal tumors
+Monoallelic mutations:
+Colorectal cancer
+Endometrial cancer
+Ovarian cancer
+"	"autosomal recessive 
+autosomal dominant "	"6,012,870"	"6,048,756"	8072530	600259	Rahman 114 CPG	Tumor Suppressor Gene	15	7
+POLD1	"polymerase (DNA directed), delta 1, catalytic subunit"	"POLD, CDC2, CRCS 10, MDPL"	19q13.33	PPAP (polymerase proofreading associated polyposis)	"Colorectal cancer
+Endometrial cancer"	autosomal dominant	"50,887,461"	"50,921,273"	23263490	174761	Rahman 114 CPG	Tumor Suppressor Gene	2	0
+POLE	"polymerase (DNA directed), epsilon, catalytic subunit"	"FILS, POLE1, CRCS12"	12q24.33	PPAP (polymerase proofreading associated polyposis)	Colorectal cancer 	"autosomal recessive 
+autosomal dominant "	"133,200,348"	"133,263,951"	23263490	174762	Rahman 114 CPG	Tumor Suppressor Gene	14	0
+POLH	"polymerase (DNA directed), eta"	"XPV, XP-V, RAD30, RAD30A
+"	6p21.1	Xeroderma pigmentosa V	Squamous cell cancer (skin)	autosomal recessive 	"43,543,887"	"43,586,701"	10385124	603968	Rahman 114 CPG	Tumor Suppressor Gene	0	2
+PRKAR1A	"protein kinase, cAMP-dependent, regulatory, type I, alpha"	TSE1	17q23-q24	Carney complex        	"Myxoma (cardiac/cutaneous/breast)
+Thyroid cancer
+Sex cord-stromal tumor
+"	autosomal dominant	"66,508,110"	"66,528,908"	10973256	188830	Rahman 114 CPG	Not classified	2	0
+PRSS1	"protease, serine, 1 (trypsin 1)
+
+"	"TRP1, TRY1, TRY4, TRYP1
+"	7q34		Pancreatic cancer	autosomal dominant	"142,457,319"	"142,460,923"	8841182	276000	Rahman 114 CPG	Not classified	0	1
+PTCH1	patched 1	"PTCH, NBCCS, BCNS"	9q22.3	"Nevoid basal cell carcinoma syndrome
+Gorlin Syndrome         "	"Basal cell carcinoma
+Medulloblastoma                                         "	autosomal dominant	"98,205,262"	"98,279,339"	8658145 8681379	601309	Rahman 114 CPG	Tumor Suppressor Gene	5	0
+PTEN	phosphatase and tensin homolog	"BZN, MHAM"	10q23.3	"Cowden Syndrome
+PTEN hamartoma tumor syndrome
+"	"Breast cancer
+Thyroid cancer
+Endometrial cancer
+"	autosomal dominant	"89,622,870"	"89,731,687"	9140396	601728	Rahman 114 CPG	Tumor Suppressor Gene	1	1
+PTPN11	"protein tyrosine phosphatase, non-receptor type 11"	"CFC, NS1, SHP2, BPTP3, PTP2C, PTP-1D, SH-PTP2, SH-PTP3"	12q24.13	Noonan syndrome	"JMML
+neuroblastoma "	autosomal dominant	"112,856,155"	"112,947,717"	11704759 12717436	176876	Rahman 114 CPG	Oncogene	0	4
+RAD51C	RAD51 homolog C (S. cerevisiae)	RAD51L2	17q25.1	Fanconi anaemia (O) (biallelic mutations)	"Monoallelic mutations:     
+Ovarian cancer                      "	"autosomal recessive 
+autosomal dominant "	"56,769,934"	"56,811,703"	20400964	602774	Rahman 114 CPG	Tumor Suppressor Gene	6	5
+RAD51D	RAD51 homolog D (S. cerevisiae)	RAD51L3	17q11		Ovarian cancer   	autosomal dominant	"33,426,811"	"33,448,541"	21822267	602954	Rahman 114 CPG	Tumor Suppressor Gene	9	0
+RB1	retinoblastoma 1	"OSRC, RB"	13q14.2		"Retinoblastoma
+Pinealoma
+Sarcoma
+Melanoma"	autosomal dominant	"48,877,883"	"49,056,122"	2885916	614041	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+RECQL4	RecQ protein-like 4	RecQ4	8q24.3	Rothmund-Thompson syndrome	"Osteosarcoma
+Basal cell carcinoma
+Squamous cell carcinoma"	autosomal recessive 	"145,736,667"	"145,743,229"	10319867	603780	Rahman 114 CPG	Tumor Suppressor Gene	0	8
+RET	ret proto-oncogene	HSCR1	10q11.2 	"Multiple endocrine neoplasia 2A/2B 
+Familial medullary thyroid carcinoma"	"Medullary thyroid cancer
+Pheochromocytoma"	autosomal dominant	"43,572,475"	"43,625,799"	8099202	164761	Rahman 114 CPG	Oncogene	0	21
+RHBDF2	rhomboid 5 homolog 2 (Drosophila)	RHBDL6	17q25.1		Esophageal cancer	autosomal dominant	"74,466,976"	"74,497,508"	22265016	614404	Rahman 114 CPG	Not classified	4	0
+RMRP	RNA component of mitochondrial RNA processing endoribonuclease	"CHH, RMRPR"	9p13.3	Cartilage-hair hypoplasia syndrome	"Non-hodgkin lymphoma
+Squamous carcinoma (bcc)
+Leukemia"	autosomal recessive 	35657748	"35,658,015"	11207361	157660	Rahman 114 CPG	Not classified	0	0
+RUNX1	runt-related transcription factor 1	"AML1, CBFA2"	21q22.3		Myeloid hematological malignancy (leukemia)	autosomal dominant	"36,160,098"	"37,357,047"	10508512	151385	Rahman 114 CPG	Oncogene	0	0
+SBDS	Shwachman-Bodian-Diamond syndrome	SDS	7q11	Schwachman-Diamond syndrome	Myeloid hematological malignancy 	autosomal recessive 	"66,452,664"	"66,460,635"	12496757	607444	Rahman 114 CPG	Tumor Suppressor Gene	0	1
+SDHA	"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)"	"FP, PGL5, SDH1, SDH2, SDHF, CMD1GG"	5p15.33	Carney-Stratakis syndrome	"Paraganglioma
+Pheochromocytoma
+Gastrointestinal stromal tumor (GIST)"	"autosomal recessive 
+autosomal dominant "	"218,356"	"256,815"	20484225	600857	Rahman 114 CPG	Not classified	3	6
+SDHAF2	succinate dehydrogenase complex assembly factor 2	"SDH5, PGL2"	11q12.2	Familial paraganglioma-pheochromocytoma syndrome	"Paraganglioma
+Pheochromocytoma"	autosomal dominant	"61,197,514"	"61,215,001"	19628817	613019	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+SDHB	"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)"	SDH1	1p36.1-p35 	Familial paraganglioma-pheochromocytoma syndrome	"Paraganglioma
+Pheochromocytoma
+Renal cell cancer
+"	autosomal dominant	"17,345,217"	"17,380,665"	11404820	185470	Rahman 114 CPG	Tumor Suppressor Gene	4	3
+SDHC	"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa"	PGL3	1q21 	Familial paraganglioma-pheochromocytoma syndrome	"Paraganglioma
+Pheochromocytoma
+Gastrointestinal stromal tumor (GIST)"	autosomal dominant	"161,284,047"	"161,332,984"	11062460	602413	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+SDHD	"succinate dehydrogenase complex, subunit D, integral membrane protein"	PGL1	11q23 	Familial paraganglioma-pheochromocytoma syndrome	"Paraganglioma
+Pheochromocytoma
+Gastrointestinal stromal tumor (GIST)"	autosomal dominant	"111,957,497"	"111,990,353"	10657297	602690	Rahman 114 CPG	Tumor Suppressor Gene	2	2
+SERPINA1	"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+"	"PRO0684, A1A, A1AT, AAT, PI, PI1, PRO2275, alpha1AT"	14q32.13	Alpha1 antitrypsin defiency	Hepatocellular carcinoma	autosomal recessive 	"94,843,084"	"94,857,030"	"3485248
+7045697"	107400	Rahman 114 CPG	Not classified	0	5
+SH2D1A	SH2 domain containing 1A	"RP5-1052M9.3, DSHP, EBVS, IMD5, LYP, MTCP1, SAP, SAP/SH2D1A, XLP, XLPD
+"	Xq25	Lymphoproliferative disease	Lymphoma	X-linked recessive	"123,480,194"	"123,507,005"	9771704	300490	Rahman 114 CPG	Not classified	0	0
+SLC25A13	"solute carrier family 25 (aspartate/glutamate carrier), member 13
+"	"ARALAR2, CITRIN, CTLN2"	7q21.3	Citrullinaemia	Hepatocellular carcinoma	autosomal recessive 	"95,749,532"	"95,951,459"	10369257	603859	Rahman 114 CPG	Not classified	0	0
+SMAD4	SMAD family member 4	"MADH4, DPC4"	18q21.1 	Juvenile polyposis syndrome	Colorectal cancer	autosomal dominant	"48,494,410"	"48,611,415"	9582123	600993	Rahman 114 CPG	Tumor Suppressor Gene	0	1
+SMARCA4	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+
+"	"BAF190, BAF190A, BRG1, MRD16, RTPS2, SNF2, SNF2L4, SNF2LB, SWI2, hSNF2b
+"	19p13.2	Rhabdoid predisposition syndrome	Rhabdoid tumor	autosomal dominant	"11,071,598"	"11,176,071"	20137775	603254	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+SMARCB1	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1"	"INI1, SNF5L1"	22q11 	Rhabdoid predisposition syndrome	"Rhabdoid tumor (renal, extra-renal)
+Central primitive neuroectodermal tumor"	autosomal dominant	"24,129,150"	"24,176,703"	10521299	601607	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+SMARCE1	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1
+"	BAF57	17q21.2		Mengingioma	autosomal dominant	"38,781,214"	"38,804,760"	23377182	603111	Rahman 114 CPG	Not classified	1	0
+SOS1	son of sevenless homolog 1  (Drosophila)	"GF1, GGF1, GINGF, HGF, NS4"	2p22.1	Noonan syndrome	Rhabdomyosarcoma	autosomal dominant	"39,208,537"	"39,351,486"	17143285	182530	Rahman 114 CPG	Not classified	1	0
+SRY	sex determining region Y	"TDF, TDY, SRXX1, SRXY1
+"	Yp11.31		Gonadoblastoma	Y-linked	"2,654,896"	"2,655,740"	"2247149
+2247151"	480000	Rahman 114 CPG	Not classified	0	0
+STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	"APRF, HIES
+"	17q21.1	Hyper-immunoglobulin E syndrome	Lymphoma	autosomal dominant	"40,465,342"	"40,540,586"	17676033	102582	Rahman 114 CPG	Oncogene	0	0
+STK11	serine/threonine kinase 11	LKB1	19p13.3	Peutz-Jeghers syndrome	"Colorectal cancer
+Gastric cancer
+Breast cancer
+Sex cord-stromal tumor"	autosomal dominant	"1,205,798"	"1,228,434"	"9425897
+9428765"	602216	Rahman 114 CPG	Tumor Suppressor Gene	1	0
+SUFU	suppressor of fused homolog (Drosophila)	"SUFUH, SUFUXL"	10q24.32		"Medulloblastoma, meningioma
+"	autosomal dominant	"104,263,744"	"104,393,292"	12068298	607035	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+TERT	telomerase reverse transcriptase	"CMM9, DKCA2, DKCB4, EST2, PFBMFT1, TCS1, TP2, TRT, hEST2, hTRT
+"	5p15.33	Dyskeratosis congenita	"acute myeloid leukemia 
+Squamous cell carcinoma (head + neck, anorectal) 
+Melanoma "	"autosomal recessive 
+autosomal dominant "	"1,253,262"	"1,295,184"	16247010	187270	Rahman 114 CPG	Oncogene	0	0
+TGFBR1	"transforming growth factor, beta receptor 1
+
+"	"RP11-96L7.1, AAT5, ACVRLK4, ALK-5, ALK5, LDS1A, LDS2A, MSSE, SKR4, TGFR-1
+"	9q22.33	"Multiple self-healing squamous epithelioma (MSSE)
+Ferguson-Smith syndrome"	Squamous cell carcinoma (skin)	autosomal dominant	"101,866,320"	"101,916,474"	21358634	190181	Rahman 114 CPG	Not classified	0	0
+TMEM127	transmembrane protein 127		2q11.2		"Pheochromocytoma
+"	autosomal dominant	"96,916,312"	"96,931,732"	20154675	613403	Rahman 114 CPG	Not classified	5	1
+TNFRSF6	"transforming growth factor, beta receptor 1
+
+"	"FAS, RP11-96L7.1, AAT5, ACVRLK4, ALK-5, ALK5, LDS1A, LDS2A, MSSE, SKR4, TGFR-1
+"	10q23.31	Autoimmunie lymphoproliferative syndrome	Lymphoma 	autosomal dominant	"90,750,414"	"90,775,542"	7540117	134637	Rahman 114 CPG	Not classified	0	0
+TP53	tumor protein p53	LFS1	17p13.1	Li-Fraumeni syndrome	"Breast cancer
+Sarcoma
+Adrenocortical carcinoma
+Astrocytoma
+
+ "	autosomal dominant	"7,565,097"	"7,590,856"	1978757	191170	Rahman 114 CPG	Tumor Suppressor Gene	3	10
+TRIM37 	"tripartite motif containing 37
+
+"	"MUL, POB1, TEF3
+"	17q22	Mulibrey-nanism	Wilms tumor 	autosomal recessive 	"57,059,999"	"57,184,282"	10888877	605073	Rahman 114 CPG	Not classified	0	0
+TSC1	tuberous sclerosis 1	"LAM, hamartin"	9q34 	Tuberous sclerosis 1	"Renal cell cancer, angiomyolipoma
+Subependymal giant cell astrocytoma
+Rhabdomyoma (cardiac)
+"	autosomal dominant	"135,766,735"	"135,820,020"	9242607	605284	Rahman 114 CPG	Tumor Suppressor Gene	3	0
+TSC2	tuberous sclerosis 2	"TSC4, tuberin"	16p13.3 	Tuberous sclerosis 2	"Renal cell cancer, angiomyolipoma
+Subependymal giant cell astrocytoma
+Rhabdomyoma (cardiac)
+"	autosomal dominant	"2,097,466"	"2,138,716"	8269512	191092	Rahman 114 CPG	Tumor Suppressor Gene	2	0
+UROD	"uroporphyrinogen decarboxylase
+
+"	"RP11-69J16.2, PCT, UPD
+"	1p34.1	Porphyria (cutanea tarda)	hepatocellular carcinoma	"autosomal recessive 
+autosomal dominant "	"45,477,819"	"45,481,247"	3775362	613521	Rahman 114 CPG	Not classified	4	3
+VHL	"von Hippel-Lindau tumor suppressor, E3 ubiquitin protein ligase"	VHL1	3p25	Von Hippel-Lindau syndrome	"Renal cell cancer
+Pheochromocytoma
+Neuroendocrine tumor (pancreas)
+Hemangioblastoma (central nervous system, retina)"	autosomal dominant	"10,182,692"	"10,193,904"	8493574	608537	Rahman 114 CPG	Tumor Suppressor Gene	1	11
+WAS	Wiskott-Aldrich syndrome	"IMD2, SCNX, THC, THC1, WASP"	Xp11.23	"Wiskott-Aldrich syndrome
+WAS-related syndrome"	Lymphoma	X-linked recessive	"48,534,985"	"48,549,818"	8069912	300392	Rahman 114 CPG	Not classified	0	0
+WRN	"Werner syndrome, RecQ helicase-like"	"RECQ3, RECQL2"	8p12	Werner syndrome	"Sarcoma
+Melanoma
+Thyroid cancer"	autosomal recessive 	"30,891,317"	"31,031,285"	8602509	604611	Rahman 114 CPG	Tumor Suppressor Gene	0	5
+WT1	Wilms tumor 1	"AWT1, EWS-WT1, GUD, NPHS4, WAGR, WIT-2, WT33"	11p13	"WAGR syndrome
+Denys-Drash syndrome
+Frasier syndrome  "	"Wilms tumor
+Gonadoblastoma"	autosomal dominant	"32,409,321"	"32,457,176"	1673293	607102	Rahman 114 CPG	Tumor Suppressor Gene	0	0
+XPA	"xeroderma pigmentosum, complementation group A"	"XP1, XPAC"	9q22.3	Xeroderma pigmentosum (A) 	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal recessive 	"100,437,191"	"100,459,639"	2234061	611153	Rahman 114 CPG	Tumor Suppressor Gene	0	1
+XPC	"xeroderma pigmentosum, complementation group C"	"RAD4, XPCC"	3p25	Xeroderma pigmentosum (C) 	"Basal cell carcinoma
+Squamous cell carcinoma
+Melanoma"	autosomal recessive 	"14,186,647"	"14,220,283"	8298653	613208	Rahman 114 CPG	Tumor Suppressor Gene	0	2
+CTR9	PROTEIN 1	SH2BP1	11p15.4?		Wilm's tumor	autosomal dominant	"10,750,986"	"10,779,754"	25099282	609366	Reference (see PMID)	Not classified	2	0
+ETV6	ETS VARIANT GENE 6		12p13.2?	familial thrombocytopenia and hematologic malignancy	pediatric ALL	autosomal dominant	"11,649,853"	"11,895,401?"	25807284; 26102509; 26522332	600618	Reference (see PMID)	Oncogene	0	0
+FANCM	FANCM?GENE		14q21.2?? ??		triple negative breast cancer	autosomal dominant	"45,135,932"	"45,200,889"	25288723	609644	Reference (see PMID)	Tumor Suppressor Gene	16	0
+JMJD1C	JUMONJI DOMAIN-CONTAINING PROTEIN 1C		10q21.3?		intracranial germ cell tumors	autosomal dominant		"63,167,221"	24896186	604503	Reference (see PMID)	Not classified	1	0
+MITF	microphthalmia-associated transcription factor?		?3p13?		familial melanoma	autosomal dominant	"69,739,434"	"69,968,336"	22080950; 22080950 	156845	Reference (see PMID)	Oncogene	0	2
+NTHL1	ENDONUCLEASE III-LIKE 1	"NTH1, OCTS3"	16p13.3?		"colon adenocarcinoma, bladder carcinoma, meningioma, basal cell carcinoma, colorectal adenomas, head and neck squamous cell carcinoma-based on one woman case report"	autosomal recessive	"2,039,814"	"2,047,865?"	26559593	602656	Reference (see PMID)	Not classified	0	0
+PAX5	PAIRED BOX GENE 5		9p13.2		B-ALL	autosomal dominant	"36,833,274"	"37,035,318"	24013638	167414	Reference (see PMID)	Oncogene	1	0
+POT1	PROTECTION OF TELOMERES 1		7q31.33?		melanoma	autosomal dominant	"124,822,385"	"124,929,982"	24686849	606478	Reference (see PMID)	Not classified	12	0
+PRDM9	PR DOMAIN-CONTAINING PROTEIN 9		5p14.2?		childhood leukemia (B-ALL)	autosomal dominant	"23,507,614"	"23,528,596"	23222848; 24754746	609760	Reference (see PMID)	Not classified	12	0
+RECQL	RECQ PROTEIN-LIKE		12p12.1?		breast cancer	autosomal dominant	"21,468,909"	"21,501,668"	25915596	600537	Reference (see PMID)	Not classified	19	0
+SPRTN	SprT-LIKE N-TERMINAL DOMAIN PROTEIN		1q42.2?		hepatocellular carcinoma	autosomal recessive	"231,337,935"	"231,370,550?"	25261934	616086	Reference (see PMID)	Not classified	0	0
+ERCC1	"EXCISION REPAIR, COMPLEMENTING DEFECTIVE, IN CHINESE HAMSTER, 1"	UV20	19q13.32??	Cerebrooculofacioskeletal syndrome 4		autosomal recessive	"45,407,332"	"45,478,819"	26580448	126380	St. Jude 29 list NEJM paper	Tumor Suppressor Gene	0	0
+FANCI	FANCI?GENE		15q26.1?	"Fanconi anemia, complementation group I"		autosomal recessive	"89,243,947"	"89,317,130"	26580448; 28687356; 28961279	611360	St. Jude 29 list NEJM paper	Tumor Suppressor Gene	0	2
+FANCL	FANCL?GENE	PHF9; FAAP43	2p16.1?	"Fanconi anemia, complementation group L"		autosomal recessive	"58,159,242"	"58,241,680?"	26580448; 29335925; 28678401	608111	St. Jude 29 list NEJM paper	Tumor Suppressor Gene	0	0
+NHP2	"NUCLEOLAR PROTEIN FAMILY A, MEMBER 2"		5q35.3?	"Dyskeratosis congenita, autosomal recessive 2"		autosomal recessive	"178,149,462"	"178,153,959"	26580448; 21209122	606470	St. Jude 29 list NEJM paper	Not classified	0	0
+NOP10	"NUCLEOLAR PROTEIN FAMILY A, MEMBER 3"		15q14???	"Dyskeratosis congenita, autosomal recessive 1"		autosomal recessive	"34,341,715"	"34,343,160?"	26580448; 21209122	606471	St. Jude 29 list NEJM paper	Not classified	0	0
+SH2B3	SH2B ADAPTOR PROTEIN 3		12q24.12?			autosomal recessive	"111,405,107"	"111,451,623"	26580448; 29212164	605093	St. Jude 29 list NEJM paper	Not classified	0	1
+BRAF	V-RAF MURINE SARCOMA VIRAL ONCOGENE HOMOLOG B1	"BRAF1, RAFB1"	7q34?	"RASopathy (Cardiofaciocutaneous Syndrome, Noonan Syndrome 7, and LEOPARD Syndrome 3)"		autosomal dominant	"140,715,950"	"140,924,763"	26580448	164757	St. Jude 60 Figure 2 NEJM paper	Oncogene	0	0
+CDKN1C	CYCLIN-DEPENDENT KINASE INHIBITOR 1C		11p15.4??	Beckwith-Wiedemann Syndrome	embryonal tumors	autosomal dominant	"2,883,217"	"2,885,815?"	26580448; 10424811	600856	St. Jude 60 Figure 2 NEJM paper	Not classified	0	0
+EPCAM	EPITHELIAL CELLULAR ADHESION MOLECULE	"TACSTD1, M4S1, GA733-2"	2p21?	"Colorectal cancer, hereditary nonpolyposis, type 8"	Hereditary Nonpolyposis Colorectal Cancer	autosomal dominant	"47,369,147"	"47,387,027"	26580448; 29237405	185535	St. Jude 60 Figure 2 NEJM paper	Not classified	3	0
+KRAS	V-KI-RAS2 KIRSTEN RAT SARCOMA VIRAL ONCOGENE HOMOLOG		12p12.1??	"RASopathy (Cardiofaciocutaneous syndrome 2, Noonan syndrome 3, RAS-associated autoimmune leukoproliferative disorder, Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic)"		autosomal dominant	"25,204,788"	"25,250,930"	26580448; 25808193	190070	St. Jude 60 Figure 2 NEJM paper	Oncogene	0	0
+MAP2K1	MITOGEN-ACTIVATED PROTEIN KINASE KINASE 1	"PRKMK1, MKK1, MAPKK1, MEK1"	15q22.31??	RASopathy (Cardiofaciocutaneous syndrome 3)		autosomal dominant	"66,386,872"	"66,491,543"	26580448; 25899310	176872	St. Jude 60 Figure 2 NEJM paper	Oncogene	0	0
+MAP2K2	MITOGEN-ACTIVATED PROTEIN KINASE KINASE 2	"PRKMK2, MKK2, MAPKK2, MEK2"	19p13.3???	RASopathy (Cardiofaciocutaneous syndrome 4)		autosomal dominant	"4,090,320"	"4,124,183"	26580448; MAP2K2	601263	St. Jude 60 Figure 2 NEJM paper	Oncogene	0	0
+NRAS	NEUROBLASTOMA RAS VIRAL ONCOGENE HOMOLOG	NRAS1	1p13.2	"RASopathy (RAS-associated autoimmune lymphoproliferative syndrome type IV, somatic; Epidermal nevus, somatic; Melanocytic nevus syndrome, congenital, somatic; Neurocutaneous melanosis, somatic; Noonan syndrome 6; Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic)"		autosomal dominant	"114,704,463"	"114,716,893"	26580448; 28594414	164790	St. Jude 60 Figure 2 NEJM paper	Oncogene	0	0
+RAF1	V-RAF-1 MURINE LEUKEMIA VIRAL ONCOGENE HOMOLOG 1	CRAF	3p25.2??	"RASopathy (LEOPARD syndrome 2, Noonan syndrome 5)"		autosomal dominant	"12,583,600"	"12,664,200?"	26580448; 27038324 	164760	St. Jude 60 Figure 2 NEJM paper	Oncogene	0	0
+SHOC2	"SUPPRESSOR OF CLEAR, C. ELEGANS, HOMOLOG OF"	SUR8	10q25.2	RASopathy (Noonan-like syndrome with loose anagen hair)		autosomal dominant	"110,919,542"	"111,013,666?"	26580448; 27466182	602775	St. Jude 60 Figure 2 NEJM paper	Not classified	0	0
