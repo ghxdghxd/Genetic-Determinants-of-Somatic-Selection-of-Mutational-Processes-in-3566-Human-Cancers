@@ -54,7 +54,7 @@ dev.off()
 
 ```R
 library(rstatix)
-IV_sig <- read.table("../TableS3/SupplementaryTable_S3B.csv", header=T,sep="\t", stringsAsFactors = F)
+IV_sig <- read.table("../TableS3/SupplementaryTable_S4B.csv", header=T,sep="\t", stringsAsFactors = F)
 logSigMat <- read.table("../TableS1/SupplementaryTable_S1.csv", header = T, sep= "\t", stringsAsFactors = F)
 rownames(logSigMat) = logSigMat$SampleID
 load("mRNA_and_geno.RData")

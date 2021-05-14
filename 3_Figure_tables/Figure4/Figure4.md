@@ -28,24 +28,20 @@ Compendium_Cancer_Genes = read.csv(file_Compendium_Cancer_Gene, sep = "\t",heade
 # Identification of cancer driver genes based on nucleotide context
 Nucleotide_context_genes = read.csv(file_Nucleotide_context_gene, sep = "\t",header = T, stringsAsFactors=F)
 
-library(venn)
-plot_all_gene_overlap = function(){
-    CGCs = CGCs$Gene.Symbol
-    Compendium_Cancer_Genes = unique(Compendium_Cancer_Genes$SYMBOL)
-    Nucleotide_context_genes = Nucleotide_context_genes$Gene
-    Susceptibility_genes = Susceptibility_genes$Gene..Symbol
-    venn(list(Candidate_genes_exclude_E_I = unique(setdiff(Candidate_genes$gene, c(E_genes$gene, I_genes$gene))),
-        E_genes = unique(E_genes$gene),
-        I_genes = unique(I_genes$gene),
-        CGCs = CGCs,
-        Compendium_Cancer_Genes = Compendium_Cancer_Genes,
-        Nucleotide_context_genes = Nucleotide_context_genes,
-        Susceptibility_genes = Susceptibility_genes),
-        box = F, ilabels = TRUE, zcolor = "style", size = 25, cexil = 1.2, cexsn = 1.5)
-}
 
-pdf("Figure4A.pdf", width = 5, height = 5)
-plot_all_gene_overlap()
+upset_gene = data.frame(gene = unique(c(Candidate_genes$gene, E_genes$gene, I_genes$gene, CGCs$Gene.Symbol,
+    Compendium_Cancer_Genes$SYMBOL, Nucleotide_context_genes$Gene, Susceptibility_genes$Gene..Symbol)))
+upset_gene$Candidate_genes = ifelse(upset_gene$gene %in% Candidate_genes$gene, 1, 0)
+upset_gene$Egenes = ifelse(upset_gene$gene %in% E_genes$gene, 1, 0)
+upset_gene$Igenes = ifelse(upset_gene$gene %in% I_genes$gene, 1, 0)
+upset_gene$COSMIC = ifelse(upset_gene$gene %in% CGCs$Gene.Symbol, 1, 0)
+upset_gene$Compendium_Cancer_Genes = ifelse(upset_gene$gene %in% Compendium_Cancer_Genes$SYMBOL, 1, 0)
+upset_gene$Nucleotide_context = ifelse(upset_gene$gene %in% Nucleotide_context_genes$Gene, 1, 0)
+upset_gene$Susceptibility_genes = ifelse(upset_gene$gene %in% Susceptibility_genes$Gene..Symbol, 1, 0)
+
+pdf("Figure4A.pdf", width = 7, height = 5)
+upset(upset_gene, sets = rev(c("Candidate_genes","Egenes", "Igenes", "COSMIC", "Compendium_Cancer_Genes", "Nucleotide_context", "Susceptibility_genes")),
+      sets.x.label = "Gene set size", keep.order = T, line.size = 0.3, point.size = 2, set_size.show = T,shade.color = "grey50",)
 dev.off()
 ```
 
@@ -78,7 +74,7 @@ res$type[res$type=="E"] = "E-gene"
 a = merge(melt(table(m[,2:3])), res, by=c('mutational_propensity',"type")) %>% group_by(type) %>%
     mutate(rate = value/sum(value), p = as.numeric(p), OR = as.numeric(OR)) %>%
     mutate(type = factor(type, levels = c("E-gene","I-gene")), P = -log10(p)),
-           mutational_propensity = factor(mutational_propensity, levels = c("NpCpG", "APOBEC", "dMMR", "Tobacco", "EPP1", "EPP2")))
+           mutational_propensity = factor(mutational_propensity, levels = c("MP1", "MP2", "MP3", "MP4", "MP5", "MP6")))
 a$P[a$P > 10] = 10
 a$OR[a$OR > 10] = 10
 

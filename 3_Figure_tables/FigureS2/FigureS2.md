@@ -62,7 +62,7 @@ rownames(cosmicSig) = paste0(substr(cosmicSig$SubType,1,1),"[", cosmicSig$Type, 
 cosmicSig = cosmicSig[, grep("\\d",colnames(cosmicSig))]
 colnames(cosmicSig) = gsub("^[A-Za-z]+","", colnames(cosmicSig))
 
-sig_RData="DP30.AD10.SNV10.input.est.sig.7.RData"
+sig_RData="signature_7.RData"
 
 loadPmSig <- function(pmSigRData){
     load(pmSigRData)
