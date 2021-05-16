@@ -73,12 +73,12 @@ com_plot2 = function(IV_sig, cancer, chrom, nrows){
         c = data.frame(mRNA = mRNA[int, gene], sig = logSigMat[int, signature])
         pa = ggboxplot(a[!is.na(a$snp), ], x="snp", y="sig", shape = 1, bxp.errorbar= T, outlier.shape = NA, width = 0.5,#add.params = list(size=0.5),
             ylab = signature, xlab = paste0(snp, "\n", ID)) +
-            stat_pvalue_manual(a %>% t_test(sig ~ snp) %>% add_xy_position(x = "dose"),
-            size = 2, tip.length = 0.01, label = "p.adj")
+            stat_pvalue_manual(a %>% t_test(sig ~ snp) %>% add_xy_position(x = "snp"),
+                size = 4, tip.length = 0.01, label = "p")
         pd = ggboxplot(b[!is.na(b$snp), ], x="snp", y="mRNA", shape = 1, bxp.errorbar= T, outlier.shape = NA, width = 0.5,#add.params = list(size=0.5),
             ylab = paste(gene, "expression"), xlab = paste0(snp, "\n", ID)) +
-            stat_pvalue_manual(b %>% t_test(mRNA ~ snp) %>% add_xy_position(x = "dose"),
-                tip.length = 0.01, label = "p.adj", size = 2, angle = 0)
+            stat_pvalue_manual(b %>% t_test(mRNA ~ snp) %>% add_xy_position(x = "snp"),
+                size = 4, tip.length = 0.01, label = "p")
         p = ggarrange(pa, pd, ncol = 2, align='hv')
         return(p)
     })
