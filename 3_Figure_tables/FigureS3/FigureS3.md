@@ -61,7 +61,7 @@ pmLogSigMat$clone_num_status[pmLogSigMat$clone_num > 0] = "low"
 pmLogSigMat$clone_num_status[pmLogSigMat$clone_num > 2.5] = "middle"
 pmLogSigMat$clone_num_status[pmLogSigMat$clone_num > 3.6] = "high"
 
-pmLogSigMat$cancer = factor(pmLogSigMat$cancer, levels = c("THCA","PRAD","BRCA","KIRC","ESCC","GBM","OV","UCEC","ESCA","LIHC","STAD","COAD","LUAD"))
+pmLogSigMat$cancer = factor(pmLogSigMat$cancer, levels = c("THCA","PRAD","BRCA","KIRC","ESCC","GBM","OV","UCEC","EAC","LIHC","STAD","COAD","LUAD"))
 
 library(ggsci)
 
