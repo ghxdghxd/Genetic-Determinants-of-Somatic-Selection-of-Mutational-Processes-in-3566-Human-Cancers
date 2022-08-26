@@ -2,7 +2,9 @@
 
 ## Introduction
 
-* This repository contains the necessary data and code to replicate the analysis and figures of **JT Guo *et al*,Genetic Determinants of the Somatic Selection of Mutational Processes in 3566 Human Cancers.**
+* This repository contains the necessary data and code to replicate the analysis and figures of   
+  **JT Guo *et al*,Genetic Determinants of the Somatic Selection of Mutational Processes in 3566 Human Cancers. Cancer Res. 2021 Aug 15;81(16):4205-4217. doi: 10.1158/0008-5472.CAN-21-0086. Epub 2021 Jul 2. PMID: 34215622. 
+  <https://aacrjournals.org/cancerres/article/81/16/4205/670294/Genetic-Determinants-of-Somatic-Selection-of>**
 
 * Scripts in this repository are written in **R**, **Python**, and **Julia**.
 
